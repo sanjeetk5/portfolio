@@ -22,7 +22,7 @@ const Experience = () => {
             role: 'Frontend Developer',
             company: 'Maskottchen Technology',
             period: '2023 - 2024',
-            description: 'Assisted in the development of company project which is an IOT based project and worked in the frontend part of the project using ReacrtJS',
+            description: 'Assisted in the development of company project which is an IOT based project and worked in the frontend part of the project using ReactJS',
             type: 'work',
         },
         {

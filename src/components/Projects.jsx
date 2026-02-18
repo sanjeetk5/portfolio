@@ -18,20 +18,20 @@ const projects = [
     },
     {
         title: 'Littlab Iot App',
-        description: 'A fully functional social media platform allowing users to post, like, and comment on updates.',
+        description: 'Littlab is an IoT-based smart monitoring project designed to collect, process, and visualize real-time sensor data for efficient tracking and automation.',
         image: Littlab,
         tags: ['React', 'TypeScript', 'Tailwind', 'MUI', 'IOT'],
         githubLink: 'https://github.com/ankitjangidx/frontend',
         liveLink: 'https://littlab.customlitt.com/'
     },
-    {
-        title: 'Task Management Tool',
-        description: 'A productivity app to help teams organize tasks and collaborate effectively.',
-        image: 'https://images.unsplash.com/photo-1540350394557-8d14678e7f91?auto=format&fit=crop&w=800&q=80',
-        tags: ['React', 'Firebase', 'Redux'],
-        githubLink: '#',
-        liveLink: '#'
-    }
+    // {
+    //     title: 'Task Management Tool',
+    //     description: 'A productivity app to help teams organize tasks and collaborate effectively.',
+    //     image: 'https://images.unsplash.com/photo-1540350394557-8d14678e7f91?auto=format&fit=crop&w=800&q=80',
+    //     tags: ['React', 'Firebase', 'Redux'],
+    //     githubLink: '#',
+    //     liveLink: '#'
+    // }
 ];
 
 const Projects = () => {

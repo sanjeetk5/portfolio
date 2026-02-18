@@ -147,20 +147,20 @@ const Contact = () => {
                             </Typography>
                             <Box>
                                 <IconButton
-                                    component={motion.button}
+                                    component={motion.a}
                                     whileHover={{ scale: 1.2, color: theme.palette.primary.main }}
                                     color="primary"
-                                    href="https://github.com"
-                                    target="_blank"
+                                    href="https://github.com/sanjeetk5"
+                                    target='_blank'
                                     size="large"
                                 >
                                     <GitHubIcon fontSize="inherit" />
                                 </IconButton>
                                 <IconButton
-                                    component={motion.button}
+                                    component={motion.a}
                                     whileHover={{ scale: 1.2, color: theme.palette.primary.main }}
                                     color="primary"
-                                    href="https://linkedin.com"
+                                    href="https://www.linkedin.com/in/sanjeet-kumar-797230212/"
                                     target="_blank"
                                     size="large"
                                 >
@@ -177,10 +177,10 @@ const Contact = () => {
                                     <TwitterIcon fontSize="inherit" />
                                 </IconButton>
                                 <IconButton
-                                    component={motion.button}
+                                    component={motion.a}
                                     whileHover={{ scale: 1.2, color: theme.palette.primary.main }}
                                     color="primary"
-                                    href="mailto:email@example.com"
+                                    href="mailto:mastersanjeetkumar@gmail.com"
                                     size="large"
                                 >
                                     <EmailIcon fontSize="inherit" />
